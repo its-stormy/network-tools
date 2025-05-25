@@ -24,13 +24,22 @@ Un outil CLI en Python permettant d'effectuer diverses analyses réseau : ping I
 
 ### Installation des dépendances
 ```bash
-pip install icmplib
+pip install icmplib``
+```
 
-
-### 🚀 Utilisation
+🚀 Utilisation
 Exécute simplement le fichier Python :
 
 bash
 Copier
 Modifier
 python network_tools.py
+
+✅ Compatibilité
+✅ Windows
+✅ Linux
+❌ macOS (non testé, ping ICMP peut nécessiter des privilèges root)
+
+
+🔐 Avertissement
+Ce programme est destiné à des fins éducatives et administratives uniquement. Toute utilisation abusive ou non autorisée peut être illégale.
