@@ -1,0 +1,3 @@
+icmplib==3.0.3       # Pour le ping maison (ICMP)
+ipaddress==1.0.23    # Pour la gestion des plages d'IP (inclus dans stdlib depuis Python 3.3)
+Installation: pip install -r requirements.txt
