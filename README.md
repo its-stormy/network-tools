@@ -24,7 +24,7 @@ Un outil CLI en Python permettant d'effectuer diverses analyses réseau : ping I
 
 ### Installation des dépendances
 ```bash
-pip install icmplib``
+pip install icmplib
 ```
 
 🚀 Utilisation
